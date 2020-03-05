@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Point-of-Presence | Lucas Müller</title>
+    <link>/tags/point-of-presence/</link>
+      <atom:link href="/tags/point-of-presence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Point-of-Presence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 09:57:10 -0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Point-of-Presence</title>
+      <link>/tags/point-of-presence/</link>
+    </image>
+    
+    <item>
+      <title>A Decade of Backbone Evolution of the Brazilian Academic Network: observations from the perspective of the routers</title>
+      <link>/publication/2019-pam-mazzola/</link>
+      <pubDate>Tue, 05 Mar 2019 09:57:10 -0300</pubDate>
+      <guid>/publication/2019-pam-mazzola/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

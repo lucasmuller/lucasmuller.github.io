@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Luckie (University of Waikato) | Lucas Müller</title>
+    <link>/authors/matthew-luckie-university-of-waikato/</link>
+      <atom:link href="/authors/matthew-luckie-university-of-waikato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Luckie (University of Waikato)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2020 12:40:39 -0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Matthew Luckie (University of Waikato)</title>
+      <link>/authors/matthew-luckie-university-of-waikato/</link>
+    </image>
+    
+    <item>
+      <title>Spoofer-IX</title>
+      <link>/project/2016-2020-spooferix/</link>
+      <pubDate>Thu, 05 Mar 2020 12:40:39 -0300</pubDate>
+      <guid>/project/2016-2020-spooferix/</guid>
+      <description>&lt;p&gt;A new methodology to accurately classify spoofed traffic in the inter-domain level using heavily aggregated Internet traffic data, revealing the deep subtleties of scientific assessments of operational Internet infrastructure (2016-2020).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

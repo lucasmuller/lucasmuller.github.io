@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Luckie | Lucas Müller</title>
+    <link>/authors/matthew-luckie/</link>
+      <atom:link href="/authors/matthew-luckie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Luckie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2020 12:40:39 -0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Matthew Luckie</title>
+      <link>/authors/matthew-luckie/</link>
+    </image>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>/publication/acm-conext-2019-lfmuller/</link>
+      <pubDate>Wed, 04 Dec 2019 19:29:15 -0300</pubDate>
+      <guid>/publication/acm-conext-2019-lfmuller/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

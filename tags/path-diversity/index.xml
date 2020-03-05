@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>path diversity | Lucas Müller</title>
+    <link>/tags/path-diversity/</link>
+      <atom:link href="/tags/path-diversity/index.xml" rel="self" type="application/rss+xml" />
+    <description>path diversity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2016 15:53:16 -0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>path diversity</title>
+      <link>/tags/path-diversity/</link>
+    </image>
+    
+    <item>
+      <title>Network Design</title>
+      <link>/project/2014-2016-netdesign/</link>
+      <pubDate>Sun, 10 Jan 2016 15:53:16 -0300</pubDate>
+      <guid>/project/2014-2016-netdesign/</guid>
+      <description>&lt;p&gt;Aimed at developing optimization techniques that can be applied both at network design and during its lifespan in order to improve network performance, funded by &lt;a href=&#34;http://research.microsoft.com/en-us/projects/azure/&#34;&gt;Microsoft Research (Microsoft Azure Research Award)&lt;/a&gt; (2014–2016).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phoenix</title>
+      <link>/project/2014-2016-phoenix/</link>
+      <pubDate>Fri, 01 Jan 2016 15:47:45 -0300</pubDate>
+      <guid>/project/2014-2016-phoenix/</guid>
+      <description>&lt;p&gt;Proposed to investigate and develop an architecture that strengthens current guarantees and coordinates mechanisms to improve survivability, funded by &lt;a href=&#34;http://www.cnpq.br/&#34;&gt;MCTI/CNPq&lt;/a&gt; (2014–2016).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survivor: an Enhanced Controller Placement Strategy for Improving SDN Survivability</title>
+      <link>/publication/2014-globecom-muller/</link>
+      <pubDate>Fri, 05 Dec 2014 10:44:19 -0300</pubDate>
+      <guid>/publication/2014-globecom-muller/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>peer reachability | Lucas Müller</title>
+    <link>/tags/peer-reachability/</link>
+      <atom:link href="/tags/peer-reachability/index.xml" rel="self" type="application/rss+xml" />
+    <description>peer reachability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Oct 2012 11:06:40 -0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>peer reachability</title>
+      <link>/tags/peer-reachability/</link>
+    </image>
+    
+    <item>
+      <title>Disconnecting to Connect: understanding Optimistic Disconnection in BitTorrent</title>
+      <link>/publication/2012-p2p-lehmann/</link>
+      <pubDate>Fri, 05 Oct 2012 11:06:40 -0300</pubDate>
+      <guid>/publication/2012-p2p-lehmann/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wide-area Traffic Delivery | Lucas Müller</title>
+    <link>/tags/wide-area-traffic-delivery/</link>
+      <atom:link href="/tags/wide-area-traffic-delivery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wide-area Traffic Delivery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 13:07:35 -0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wide-area Traffic Delivery</title>
+      <link>/tags/wide-area-traffic-delivery/</link>
+    </image>
+    
+    <item>
+      <title>Dynam-IX</title>
+      <link>/project/2016-2019-dynamix/</link>
+      <pubDate>Tue, 05 Mar 2019 13:07:35 -0300</pubDate>
+      <guid>/project/2016-2019-dynamix/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autonomous Systems (ASes) can now reach hundreds of networks directly through Internet eXchange Points (IXPs). Despite the benefits, any pair of ASes needs first to agree on exchanging traffic. Such process is mainly manual and lengthy. Because of the hassle, ASes miss interconnection opportunities and prefer long-term agreements, even if not matching current Internet traffic dynamics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Approach&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To improve wide-area traffic delivery performance Dynam-IX enables IXP members with a protocol to find interconnection opportunities and establish interconnection agreements, a high-level interconnection intent abstraction to express peering policies, a legal framework to digitally handle contracts, and a distributed tamper-proof ledger to allow ASes to cooperatively build trust.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hidden Dynamics</title>
+      <link>/project/2017-2018-mshiddendynamics/</link>
+      <pubDate>Wed, 05 Dec 2018 14:16:43 -0300</pubDate>
+      <guid>/project/2017-2018-mshiddendynamics/</guid>
+      <description>&lt;p&gt;Uncovering the Hidden Dynamics of Changing Internet Interconnections. Investigates the dynamics of network peering infrastructures to better understand how it impacts Internet performance, funded by &lt;a href=&#34;http://research.microsoft.com/en-us/projects/azure/&#34;&gt;Microsoft Research (Microsoft Azure Research Award)&lt;/a&gt; (2017 and 2018).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>/publication/2018-conext-marcos/</link>
+      <pubDate>Wed, 05 Dec 2018 10:06:53 -0300</pubDate>
+      <guid>/publication/2018-conext-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>/publication/2018-sigcomm-marcos/</link>
+      <pubDate>Sun, 05 Aug 2018 10:20:14 -0300</pubDate>
+      <guid>/publication/2018-sigcomm-marcos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

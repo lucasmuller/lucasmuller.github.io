@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BGP | Lucas Müller</title>
+    <link>/tags/bgp/</link>
+      <atom:link href="/tags/bgp/index.xml" rel="self" type="application/rss+xml" />
+    <description>BGP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2020 12:40:39 -0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>BGP</title>
+      <link>/tags/bgp/</link>
+    </image>
+    
+    <item>
+      <title>Spoofer-IX</title>
+      <link>/project/2016-2020-spooferix/</link>
+      <pubDate>Thu, 05 Mar 2020 12:40:39 -0300</pubDate>
+      <guid>/project/2016-2020-spooferix/</guid>
+      <description>&lt;p&gt;A new methodology to accurately classify spoofed traffic in the inter-domain level using heavily aggregated Internet traffic data, revealing the deep subtleties of scientific assessments of operational Internet infrastructure (2016-2020).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IPE-Analytics</title>
+      <link>/project/2017-2020-ipeanalytics/</link>
+      <pubDate>Sun, 05 Jan 2020 13:25:18 -0300</pubDate>
+      <guid>/project/2017-2020-ipeanalytics/</guid>
+      <description>&lt;p&gt;The adoption of network monitoring techniques has culminated in a broad availability of raw data. However, giving the large-scale and complexity of long-distance networks and the massive volume of distributed data, minor progress has been achieved regarding the in-depth analysis of this collected data and inferences about the network behavior. This project investigates methods to analyze the data measured by the existing monitoring tools present in the Brazilian Academic IPÊ backbone network. The result is a service that provides inferences to aid the process of operation, traffic engineering and network planning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>/publication/acm-conext-2019-lfmuller/</link>
+      <pubDate>Wed, 04 Dec 2019 19:29:15 -0300</pubDate>
+      <guid>/publication/acm-conext-2019-lfmuller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX</title>
+      <link>/project/2016-2019-dynamix/</link>
+      <pubDate>Tue, 05 Mar 2019 13:07:35 -0300</pubDate>
+      <guid>/project/2016-2019-dynamix/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autonomous Systems (ASes) can now reach hundreds of networks directly through Internet eXchange Points (IXPs). Despite the benefits, any pair of ASes needs first to agree on exchanging traffic. Such process is mainly manual and lengthy. Because of the hassle, ASes miss interconnection opportunities and prefer long-term agreements, even if not matching current Internet traffic dynamics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Approach&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To improve wide-area traffic delivery performance Dynam-IX enables IXP members with a protocol to find interconnection opportunities and establish interconnection agreements, a high-level interconnection intent abstraction to express peering policies, a legal framework to digitally handle contracts, and a distributed tamper-proof ledger to allow ASes to cooperatively build trust.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hidden Dynamics</title>
+      <link>/project/2017-2018-mshiddendynamics/</link>
+      <pubDate>Wed, 05 Dec 2018 14:16:43 -0300</pubDate>
+      <guid>/project/2017-2018-mshiddendynamics/</guid>
+      <description>&lt;p&gt;Uncovering the Hidden Dynamics of Changing Internet Interconnections. Investigates the dynamics of network peering infrastructures to better understand how it impacts Internet performance, funded by &lt;a href=&#34;http://research.microsoft.com/en-us/projects/azure/&#34;&gt;Microsoft Research (Microsoft Azure Research Award)&lt;/a&gt; (2017 and 2018).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>/publication/2018-conext-marcos/</link>
+      <pubDate>Wed, 05 Dec 2018 10:06:53 -0300</pubDate>
+      <guid>/publication/2018-conext-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>/publication/2018-sigcomm-marcos/</link>
+      <pubDate>Sun, 05 Aug 2018 10:20:14 -0300</pubDate>
+      <guid>/publication/2018-sigcomm-marcos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

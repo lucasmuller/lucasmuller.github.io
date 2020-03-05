@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Lucas Müller</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 19:29:15 -0300</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>/publication/acm-conext-2019-lfmuller/</link>
+      <pubDate>Wed, 04 Dec 2019 19:29:15 -0300</pubDate>
+      <guid>/publication/acm-conext-2019-lfmuller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Decade of Backbone Evolution of the Brazilian Academic Network: observations from the perspective of the routers</title>
+      <link>/publication/2019-pam-mazzola/</link>
+      <pubDate>Tue, 05 Mar 2019 09:57:10 -0300</pubDate>
+      <guid>/publication/2019-pam-mazzola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>/publication/2018-conext-marcos/</link>
+      <pubDate>Wed, 05 Dec 2018 10:06:53 -0300</pubDate>
+      <guid>/publication/2018-conext-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>/publication/2018-sigcomm-marcos/</link>
+      <pubDate>Sun, 05 Aug 2018 10:20:14 -0300</pubDate>
+      <guid>/publication/2018-sigcomm-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survivor: an Enhanced Controller Placement Strategy for Improving SDN Survivability</title>
+      <link>/publication/2014-globecom-muller/</link>
+      <pubDate>Fri, 05 Dec 2014 10:44:19 -0300</pubDate>
+      <guid>/publication/2014-globecom-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disconnecting to Connect: understanding Optimistic Disconnection in BitTorrent</title>
+      <link>/publication/2012-p2p-lehmann/</link>
+      <pubDate>Fri, 05 Oct 2012 11:06:40 -0300</pubDate>
+      <guid>/publication/2012-p2p-lehmann/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
