@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marco Canini (KAUST) | Lucas Müller</title>
-    <link>/authors/marco-canini-kaust/</link>
-      <atom:link href="/authors/marco-canini-kaust/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.lucasmuller.com.br/authors/marco-canini-kaust/</link>
+      <atom:link href="https://www.lucasmuller.com.br/authors/marco-canini-kaust/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Canini (KAUST)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 13:07:35 -0300</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>Marco Canini (KAUST)</title>
-      <link>/authors/marco-canini-kaust/</link>
+      <link>https://www.lucasmuller.com.br/authors/marco-canini-kaust/</link>
     </image>
     
     <item>
       <title>Dynam-IX</title>
-      <link>/project/2016-2019-dynamix/</link>
+      <link>https://www.lucasmuller.com.br/project/2016-2019-dynamix/</link>
       <pubDate>Tue, 05 Mar 2019 13:07:35 -0300</pubDate>
-      <guid>/project/2016-2019-dynamix/</guid>
+      <guid>https://www.lucasmuller.com.br/project/2016-2019-dynamix/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Autonomous Systems (ASes) can now reach hundreds of networks directly through Internet eXchange Points (IXPs). Despite the benefits, any pair of ASes needs first to agree on exchanging traffic. Such process is mainly manual and lengthy. Because of the hassle, ASes miss interconnection opportunities and prefer long-term agreements, even if not matching current Internet traffic dynamics.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Approach&lt;/strong&gt;&lt;/p&gt;

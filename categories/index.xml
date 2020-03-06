@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Lucas Müller</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.lucasmuller.com.br/categories/</link>
+      <atom:link href="https://www.lucasmuller.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://www.lucasmuller.com.br/categories/</link>
     </image>
     
   </channel>

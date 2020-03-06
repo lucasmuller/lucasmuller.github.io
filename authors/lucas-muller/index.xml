@@ -2,69 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucas Muller | Lucas Müller</title>
-    <link>/authors/lucas-muller/</link>
-      <atom:link href="/authors/lucas-muller/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.lucasmuller.com.br/authors/lucas-muller/</link>
+      <atom:link href="https://www.lucasmuller.com.br/authors/lucas-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Muller</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2020 12:40:39 -0300</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>Lucas Muller</title>
-      <link>/authors/lucas-muller/</link>
+      <link>https://www.lucasmuller.com.br/authors/lucas-muller/</link>
     </image>
     
     <item>
       <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
-      <link>/publication/acm-conext-2019-lfmuller/</link>
+      <link>https://www.lucasmuller.com.br/publication/acm-conext-2019-lfmuller/</link>
       <pubDate>Wed, 04 Dec 2019 19:29:15 -0300</pubDate>
-      <guid>/publication/acm-conext-2019-lfmuller/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/acm-conext-2019-lfmuller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://www.lucasmuller.com.br/talk/2019-caida-dust/</link>
+      <pubDate>Tue, 10 Sep 2019 11:14:30 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2019-caida-dust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Decade of Backbone Evolution of the Brazilian Academic Network: observations from the perspective of the routers</title>
-      <link>/publication/2019-pam-mazzola/</link>
+      <link>https://www.lucasmuller.com.br/publication/2019-pam-mazzola/</link>
       <pubDate>Tue, 05 Mar 2019 09:57:10 -0300</pubDate>
-      <guid>/publication/2019-pam-mazzola/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/2019-pam-mazzola/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
-      <link>/publication/2018-conext-marcos/</link>
+      <link>https://www.lucasmuller.com.br/publication/2018-conext-marcos/</link>
       <pubDate>Wed, 05 Dec 2018 10:06:53 -0300</pubDate>
-      <guid>/publication/2018-conext-marcos/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/2018-conext-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Agreement Marketplace on Internet eXchange Points</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-dynamix-epf/</link>
+      <pubDate>Mon, 17 Sep 2018 11:30:03 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-dynamix-epf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
-      <link>/publication/2018-sigcomm-marcos/</link>
+      <link>https://www.lucasmuller.com.br/publication/2018-sigcomm-marcos/</link>
       <pubDate>Sun, 05 Aug 2018 10:20:14 -0300</pubDate>
-      <guid>/publication/2018-sigcomm-marcos/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/2018-sigcomm-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-dynamix-irtf/</link>
+      <pubDate>Mon, 16 Jul 2018 11:39:05 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-dynamix-irtf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: A Dynamic Interconnection eXchange</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-dynamix-ripe76/</link>
+      <pubDate>Wed, 16 May 2018 11:43:25 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-dynamix-ripe76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using IXPs to Measure Improvements of Source Address Validation Filtering in Inter-Domain Traffic</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-caida-aims/</link>
+      <pubDate>Thu, 15 Mar 2018 11:23:50 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-caida-aims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet Infrastructure Measurement: Trends and Challenges</title>
+      <link>https://www.lucasmuller.com.br/talk/2017-keynote-sicc/</link>
+      <pubDate>Fri, 10 Nov 2017 11:48:07 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2017-keynote-sicc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing Coverage Analysis At IXPs in Brazil</title>
+      <link>https://www.lucasmuller.com.br/talk/2016-keynote-ixbr/</link>
+      <pubDate>Mon, 05 Dec 2016 11:52:34 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2016-keynote-ixbr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Survivor: an Enhanced Controller Placement Strategy for Improving SDN Survivability</title>
-      <link>/publication/2014-globecom-muller/</link>
+      <link>https://www.lucasmuller.com.br/publication/2014-globecom-muller/</link>
       <pubDate>Fri, 05 Dec 2014 10:44:19 -0300</pubDate>
-      <guid>/publication/2014-globecom-muller/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/2014-globecom-muller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disconnecting to Connect: understanding Optimistic Disconnection in BitTorrent</title>
-      <link>/publication/2012-p2p-lehmann/</link>
+      <link>https://www.lucasmuller.com.br/publication/2012-p2p-lehmann/</link>
       <pubDate>Fri, 05 Oct 2012 11:06:40 -0300</pubDate>
-      <guid>/publication/2012-p2p-lehmann/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/2012-p2p-lehmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiflow: Multicast clean-slate with anticipated route calculation on OpenFlow programmable networks</title>
-      <link>/publication/2012-journalacr-bondan/</link>
+      <link>https://www.lucasmuller.com.br/publication/2012-journalacr-bondan/</link>
       <pubDate>Tue, 05 Jun 2012 11:16:35 -0300</pubDate>
-      <guid>/publication/2012-journalacr-bondan/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/2012-journalacr-bondan/</guid>
       <description></description>
     </item>
     

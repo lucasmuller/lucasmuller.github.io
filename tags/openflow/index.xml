@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenFlow | Lucas Müller</title>
-    <link>/tags/openflow/</link>
-      <atom:link href="/tags/openflow/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.lucasmuller.com.br/tags/openflow/</link>
+      <atom:link href="https://www.lucasmuller.com.br/tags/openflow/index.xml" rel="self" type="application/rss+xml" />
     <description>OpenFlow</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jun 2012 11:16:35 -0300</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>OpenFlow</title>
-      <link>/tags/openflow/</link>
+      <link>https://www.lucasmuller.com.br/tags/openflow/</link>
     </image>
     
     <item>
       <title>Multiflow: Multicast clean-slate with anticipated route calculation on OpenFlow programmable networks</title>
-      <link>/publication/2012-journalacr-bondan/</link>
+      <link>https://www.lucasmuller.com.br/publication/2012-journalacr-bondan/</link>
       <pubDate>Tue, 05 Jun 2012 11:16:35 -0300</pubDate>
-      <guid>/publication/2012-journalacr-bondan/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/2012-journalacr-bondan/</guid>
       <description></description>
     </item>
     

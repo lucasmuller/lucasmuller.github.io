@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew Luckie | Lucas Müller</title>
-    <link>/authors/matthew-luckie/</link>
-      <atom:link href="/authors/matthew-luckie/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.lucasmuller.com.br/authors/matthew-luckie/</link>
+      <atom:link href="https://www.lucasmuller.com.br/authors/matthew-luckie/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew Luckie</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2020 12:40:39 -0300</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>Matthew Luckie</title>
-      <link>/authors/matthew-luckie/</link>
+      <link>https://www.lucasmuller.com.br/authors/matthew-luckie/</link>
     </image>
     
     <item>
       <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
-      <link>/publication/acm-conext-2019-lfmuller/</link>
+      <link>https://www.lucasmuller.com.br/publication/acm-conext-2019-lfmuller/</link>
       <pubDate>Wed, 04 Dec 2019 19:29:15 -0300</pubDate>
-      <guid>/publication/acm-conext-2019-lfmuller/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/acm-conext-2019-lfmuller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://www.lucasmuller.com.br/talk/2019-caida-dust/</link>
+      <pubDate>Tue, 10 Sep 2019 11:14:30 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2019-caida-dust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using IXPs to Measure Improvements of Source Address Validation Filtering in Inter-Domain Traffic</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-caida-aims/</link>
+      <pubDate>Thu, 15 Mar 2018 11:23:50 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-caida-aims/</guid>
       <description></description>
     </item>
     

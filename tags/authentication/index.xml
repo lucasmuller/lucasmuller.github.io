@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>authentication | Lucas Müller</title>
-    <link>/tags/authentication/</link>
-      <atom:link href="/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.lucasmuller.com.br/tags/authentication/</link>
+      <atom:link href="https://www.lucasmuller.com.br/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
     <description>authentication</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 16:07:30 -0300</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>authentication</title>
-      <link>/tags/authentication/</link>
+      <link>https://www.lucasmuller.com.br/tags/authentication/</link>
     </image>
     
     <item>
       <title>SecFuNet</title>
-      <link>/project/2011-2014-secfunet/</link>
+      <link>https://www.lucasmuller.com.br/project/2011-2014-secfunet/</link>
       <pubDate>Mon, 01 Dec 2014 16:07:30 -0300</pubDate>
-      <guid>/project/2011-2014-secfunet/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; Security for the Future Networks using trusted components, funded by &lt;a href=&#34;http://cordis.europa.eu/fp7/home_en.html&#34;&gt;FP7&lt;/a&gt; and &lt;a href=&#34;http://www.cnpq.br/&#34;&gt;CNPq&lt;/a&gt; (2011-2014).&lt;/p&gt;
+      <guid>https://www.lucasmuller.com.br/project/2011-2014-secfunet/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; Security for the Future Networks using trusted components, funded by &lt;a href=&#34;http://cordis.europa.eu/fp7/home_en.html&#34; target=&#34;_blank&#34;&gt;FP7&lt;/a&gt; and &lt;a href=&#34;http://www.cnpq.br/&#34; target=&#34;_blank&#34;&gt;CNPq&lt;/a&gt; (2011-2014).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; design a framework to provide secure identification and authentication, data transfer, and privacy in virtual network and clouds.&lt;/p&gt;
 </description>
     </item>

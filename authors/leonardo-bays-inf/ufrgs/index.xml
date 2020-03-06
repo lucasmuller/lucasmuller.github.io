@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leonardo Bays (INF/UFRGS) | Lucas Müller</title>
-    <link>/authors/leonardo-bays-inf/ufrgs/</link>
-      <atom:link href="/authors/leonardo-bays-inf/ufrgs/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.lucasmuller.com.br/authors/leonardo-bays-inf/ufrgs/</link>
+      <atom:link href="https://www.lucasmuller.com.br/authors/leonardo-bays-inf/ufrgs/index.xml" rel="self" type="application/rss+xml" />
     <description>Leonardo Bays (INF/UFRGS)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>Leonardo Bays (INF/UFRGS)</title>
-      <link>/authors/leonardo-bays-inf/ufrgs/</link>
+      <link>https://www.lucasmuller.com.br/authors/leonardo-bays-inf/ufrgs/</link>
     </image>
     
     <item>
-      <title>Torrentu</title>
-      <link>/project/2010-2013-torrentu/</link>
+      <title>GT-UniT</title>
+      <link>https://www.lucasmuller.com.br/project/2010-2013-torrentu/</link>
       <pubDate>Fri, 01 Nov 2013 16:11:55 -0300</pubDate>
-      <guid>/project/2010-2013-torrentu/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; GT-UNIT: Observing the BitTorrent Universe Through Telescopes, funded by &lt;a href=&#34;http://www.rnp.br&#34;&gt;RNP&lt;/a&gt; (2010–2013).&lt;/p&gt;
+      <guid>https://www.lucasmuller.com.br/project/2010-2013-torrentu/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; GT-UNIT: Observing the BitTorrent Universe Through Telescopes, funded by &lt;a href=&#34;http://www.rnp.br&#34; target=&#34;_blank&#34;&gt;RNP&lt;/a&gt; (2010–2013).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; development of a monitoring architecture to allow the observation of BitTorrent networks seeking to pinpoint sharing of illegal files (e.g. child pornography) and copyrighted content.&lt;/p&gt;
 &lt;p&gt;Nowadays, the service is in use by the Incident Response and Security Team at the Brazilian Academic backbone network (RNP).&lt;/p&gt;
 </description>

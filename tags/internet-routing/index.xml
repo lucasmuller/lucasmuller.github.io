@@ -2,39 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet Routing | Lucas Müller</title>
-    <link>/tags/internet-routing/</link>
-      <atom:link href="/tags/internet-routing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.lucasmuller.com.br/tags/internet-routing/</link>
+      <atom:link href="https://www.lucasmuller.com.br/tags/internet-routing/index.xml" rel="self" type="application/rss+xml" />
     <description>Internet Routing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2020 12:40:39 -0300</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>Internet Routing</title>
-      <link>/tags/internet-routing/</link>
+      <link>https://www.lucasmuller.com.br/tags/internet-routing/</link>
     </image>
     
     <item>
       <title>Spoofer-IX</title>
-      <link>/project/2016-2020-spooferix/</link>
+      <link>https://www.lucasmuller.com.br/project/2016-2020-spooferix/</link>
       <pubDate>Thu, 05 Mar 2020 12:40:39 -0300</pubDate>
-      <guid>/project/2016-2020-spooferix/</guid>
+      <guid>https://www.lucasmuller.com.br/project/2016-2020-spooferix/</guid>
       <description>&lt;p&gt;A new methodology to accurately classify spoofed traffic in the inter-domain level using heavily aggregated Internet traffic data, revealing the deep subtleties of scientific assessments of operational Internet infrastructure (2016-2020).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IPE-Analytics</title>
-      <link>/project/2017-2020-ipeanalytics/</link>
+      <link>https://www.lucasmuller.com.br/project/2017-2020-ipeanalytics/</link>
       <pubDate>Sun, 05 Jan 2020 13:25:18 -0300</pubDate>
-      <guid>/project/2017-2020-ipeanalytics/</guid>
+      <guid>https://www.lucasmuller.com.br/project/2017-2020-ipeanalytics/</guid>
       <description>&lt;p&gt;The adoption of network monitoring techniques has culminated in a broad availability of raw data. However, giving the large-scale and complexity of long-distance networks and the massive volume of distributed data, minor progress has been achieved regarding the in-depth analysis of this collected data and inferences about the network behavior. This project investigates methods to analyze the data measured by the existing monitoring tools present in the Brazilian Academic IPÊ backbone network. The result is a service that provides inferences to aid the process of operation, traffic engineering and network planning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
-      <link>/publication/acm-conext-2019-lfmuller/</link>
+      <link>https://www.lucasmuller.com.br/publication/acm-conext-2019-lfmuller/</link>
       <pubDate>Wed, 04 Dec 2019 19:29:15 -0300</pubDate>
-      <guid>/publication/acm-conext-2019-lfmuller/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/acm-conext-2019-lfmuller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://www.lucasmuller.com.br/talk/2019-caida-dust/</link>
+      <pubDate>Tue, 10 Sep 2019 11:14:30 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2019-caida-dust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using IXPs to Measure Improvements of Source Address Validation Filtering in Inter-Domain Traffic</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-caida-aims/</link>
+      <pubDate>Thu, 15 Mar 2018 11:23:50 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-caida-aims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet Infrastructure Measurement: Trends and Challenges</title>
+      <link>https://www.lucasmuller.com.br/talk/2017-keynote-sicc/</link>
+      <pubDate>Fri, 10 Nov 2017 11:48:07 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2017-keynote-sicc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing Coverage Analysis At IXPs in Brazil</title>
+      <link>https://www.lucasmuller.com.br/talk/2016-keynote-ixbr/</link>
+      <pubDate>Mon, 05 Dec 2016 11:52:34 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2016-keynote-ixbr/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network Evolution | Lucas Müller</title>
-    <link>/tags/network-evolution/</link>
-      <atom:link href="/tags/network-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.lucasmuller.com.br/tags/network-evolution/</link>
+      <atom:link href="https://www.lucasmuller.com.br/tags/network-evolution/index.xml" rel="self" type="application/rss+xml" />
     <description>Network Evolution</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 09:57:10 -0300</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>Network Evolution</title>
-      <link>/tags/network-evolution/</link>
+      <link>https://www.lucasmuller.com.br/tags/network-evolution/</link>
     </image>
     
     <item>
       <title>A Decade of Backbone Evolution of the Brazilian Academic Network: observations from the perspective of the routers</title>
-      <link>/publication/2019-pam-mazzola/</link>
+      <link>https://www.lucasmuller.com.br/publication/2019-pam-mazzola/</link>
       <pubDate>Tue, 05 Mar 2019 09:57:10 -0300</pubDate>
-      <guid>/publication/2019-pam-mazzola/</guid>
+      <guid>https://www.lucasmuller.com.br/publication/2019-pam-mazzola/</guid>
       <description></description>
     </item>
     
