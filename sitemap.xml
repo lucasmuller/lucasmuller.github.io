@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.lucasmuller.com.br/authors/lucas-muller/</loc>
+    <lastmod>2020-03-05T12:40:39-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.lucasmuller.com.br/tags/active/</loc>
     <lastmod>2020-03-05T12:40:39-03:00</lastmod>
   </url>
@@ -44,11 +49,6 @@
   
   <url>
     <loc>https://www.lucasmuller.com.br/authors/kc-claffy/</loc>
-    <lastmod>2020-03-05T12:40:39-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.lucasmuller.com.br/authors/lucas-muller/</loc>
     <lastmod>2020-03-05T12:40:39-03:00</lastmod>
   </url>
   
@@ -538,10 +538,6 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/admin/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.lucasmuller.com.br/authors/bradley-huffaker-caida/ucsd/</loc>
   </url>
   
@@ -567,10 +563,6 @@
   
   <url>
     <loc>https://www.lucasmuller.com.br/authors/lucas-muller-inf/ufrgs/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.lucasmuller.com.br/authors/lucas-muller-ufrgs-and-caida/ucsd/</loc>
   </url>
   
   <url>

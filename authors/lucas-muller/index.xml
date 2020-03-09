@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lucas Muller | Lucas Müller</title>
+    <title>Lucas Müller</title>
     <link>https://www.lucasmuller.com.br/authors/lucas-muller/</link>
       <atom:link href="https://www.lucasmuller.com.br/authors/lucas-muller/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lucas Muller</description>
+    <description>Lucas Müller</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2020 12:40:39 -0300</lastBuildDate>
     <image>
       <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
-      <title>Lucas Muller</title>
+      <title>Lucas Müller</title>
       <link>https://www.lucasmuller.com.br/authors/lucas-muller/</link>
     </image>
+    
+    <item>
+      <title>Spoofer-IX</title>
+      <link>https://www.lucasmuller.com.br/project/2016-2020-spooferix/</link>
+      <pubDate>Thu, 05 Mar 2020 12:40:39 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/project/2016-2020-spooferix/</guid>
+      <description>&lt;p&gt;A new methodology to accurately classify spoofed traffic in the inter-domain level using heavily aggregated Internet traffic data, revealing the deep subtleties of scientific assessments of operational Internet infrastructure (2016-2020).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
