@@ -5,12 +5,20 @@
     <link>https://www.lucasmuller.com.br/tags/ixp/</link>
       <atom:link href="https://www.lucasmuller.com.br/tags/ixp/index.xml" rel="self" type="application/rss+xml" />
     <description>IXP</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2020 12:40:39 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 16:36:00 -0300</lastBuildDate>
     <image>
       <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
       <title>IXP</title>
       <link>https://www.lucasmuller.com.br/tags/ixp/</link>
     </image>
+    
+    <item>
+      <title>Spoofed Traffic Inference at IXPs: Challenges, Methods and Analysis</title>
+      <link>https://www.lucasmuller.com.br/publication/2020-journal-ixps-spoofing-muller/</link>
+      <pubDate>Mon, 27 Jul 2020 16:36:00 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/publication/2020-journal-ixps-spoofing-muller/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spoofer-IX</title>
