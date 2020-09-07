@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Networks | Lucas Müller</title>
+    <link>https://www.lucasmuller.com.br/tag/academic-networks/</link>
+      <atom:link href="https://www.lucasmuller.com.br/tag/academic-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic Networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright><lastBuildDate>Tue, 05 Mar 2019 09:57:10 -0300</lastBuildDate>
+    <image>
+      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
+      <title>Academic Networks</title>
+      <link>https://www.lucasmuller.com.br/tag/academic-networks/</link>
+    </image>
+    
+    <item>
+      <title>A Decade of Backbone Evolution of the Brazilian Academic Network: observations from the perspective of the routers</title>
+      <link>https://www.lucasmuller.com.br/publication/2019-pam-mazzola/</link>
+      <pubDate>Tue, 05 Mar 2019 09:57:10 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/publication/2019-pam-mazzola/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

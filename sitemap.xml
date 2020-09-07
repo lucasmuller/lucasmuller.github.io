@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/lucas-muller/</loc>
+    <loc>https://www.lucasmuller.com.br/author/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/publication_types/2/</loc>
+    <loc>https://www.lucasmuller.com.br/publication-type/2/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
@@ -18,37 +18,37 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/bgp/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/bgp/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/bradley-huffaker/</loc>
+    <loc>https://www.lucasmuller.com.br/author/bradley-huffaker/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/customer-cone/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/customer-cone/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/internet-measurements/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/internet-measurements/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/internet-routing/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/internet-routing/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/ixp/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/ixp/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/kc-claffy/</loc>
+    <loc>https://www.lucasmuller.com.br/author/kc-claffy/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
@@ -58,17 +58,17 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/marinho-barcellos/</loc>
+    <loc>https://www.lucasmuller.com.br/author/marinho-barcellos/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/matthew-luckie/</loc>
+    <loc>https://www.lucasmuller.com.br/author/matthew-luckie/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/network-security/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/network-security/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
@@ -83,12 +83,12 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/replicability/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/replicability/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/reproducibility/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/reproducibility/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
@@ -98,7 +98,7 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/spoofing/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/spoofing/</loc>
     <lastmod>2020-07-27T16:36:00-03:00</lastmod>
   </url>
   
@@ -108,17 +108,17 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/active/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/active/</loc>
     <lastmod>2020-03-05T12:40:39-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/marinho-barcellos-ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/marinho-barcellos-ufrgs/</loc>
     <lastmod>2020-03-05T12:40:39-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/matthew-luckie-university-of-waikato/</loc>
+    <loc>https://www.lucasmuller.com.br/author/matthew-luckie-university-of-waikato/</loc>
     <lastmod>2020-03-05T12:40:39-03:00</lastmod>
   </url>
   
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/recent/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/recent/</loc>
     <lastmod>2020-03-05T12:40:39-03:00</lastmod>
   </url>
   
@@ -138,12 +138,7 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/concluded/</loc>
-    <lastmod>2020-01-05T13:25:18-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.lucasmuller.com.br/authors/fabricio-mazzola/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/concluded/</loc>
     <lastmod>2020-01-05T13:25:18-03:00</lastmod>
   </url>
   
@@ -153,27 +148,27 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/network-planning/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/network-planning/</loc>
     <lastmod>2020-01-05T13:25:18-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/pedro-marcos/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/traffic-engineering/</loc>
     <lastmod>2020-01-05T13:25:18-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/rodrigo-oliveira/</loc>
-    <lastmod>2020-01-05T13:25:18-03:00</lastmod>
+    <loc>https://www.lucasmuller.com.br/talk/2019-spooferix-conext19/</loc>
+    <lastmod>2019-12-10T15:31:23-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/traffic-engineering/</loc>
-    <lastmod>2020-01-05T13:25:18-03:00</lastmod>
+    <loc>https://www.lucasmuller.com.br/talk/</loc>
+    <lastmod>2019-12-10T15:31:23-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/publication_types/1/</loc>
+    <loc>https://www.lucasmuller.com.br/publication-type/1/</loc>
     <lastmod>2019-12-04T19:29:15-03:00</lastmod>
   </url>
   
@@ -188,22 +183,12 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/talk/</loc>
-    <lastmod>2019-09-10T11:14:30-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.lucasmuller.com.br/tags/as-relationship/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/as-relationship/</loc>
     <lastmod>2019-03-05T13:07:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/christoph-dietzel/</loc>
-    <lastmod>2019-03-05T13:07:35-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.lucasmuller.com.br/authors/christoph-dietzel-de-cix-and-tu-berlin/</loc>
+    <loc>https://www.lucasmuller.com.br/author/christoph-dietzel-de-cix-and-tu-berlin/</loc>
     <lastmod>2019-03-05T13:07:35-03:00</lastmod>
   </url>
   
@@ -213,47 +198,32 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/marco-canini/</loc>
+    <loc>https://www.lucasmuller.com.br/author/marco-canini-kaust/</loc>
     <lastmod>2019-03-05T13:07:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/marco-canini-kaust/</loc>
+    <loc>https://www.lucasmuller.com.br/author/marco-chiesa-kth/</loc>
     <lastmod>2019-03-05T13:07:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/marco-chiesa/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/peering/</loc>
     <lastmod>2019-03-05T13:07:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/marco-chiesa-kth/</loc>
+    <loc>https://www.lucasmuller.com.br/author/pradeeban-kathiravelu-ulisboa-and-uclouvain/</loc>
     <lastmod>2019-03-05T13:07:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/peering/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/routing/</loc>
     <lastmod>2019-03-05T13:07:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/pradeeban-kathiravelu/</loc>
-    <lastmod>2019-03-05T13:07:35-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.lucasmuller.com.br/authors/pradeeban-kathiravelu-ulisboa-and-uclouvain/</loc>
-    <lastmod>2019-03-05T13:07:35-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.lucasmuller.com.br/tags/routing/</loc>
-    <lastmod>2019-03-05T13:07:35-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.lucasmuller.com.br/tags/wide-area-traffic-delivery/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/wide-area-traffic-delivery/</loc>
     <lastmod>2019-03-05T13:07:35-03:00</lastmod>
   </url>
   
@@ -263,32 +233,42 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/academic-networks/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/academic-networks/</loc>
     <lastmod>2019-03-05T09:57:10-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/configuration/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/configuration/</loc>
     <lastmod>2019-03-05T09:57:10-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/network-evolution/</loc>
+    <loc>https://www.lucasmuller.com.br/author/fabricio-mazzola/</loc>
     <lastmod>2019-03-05T09:57:10-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/point-of-presence/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/network-evolution/</loc>
     <lastmod>2019-03-05T09:57:10-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/router/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/point-of-presence/</loc>
     <lastmod>2019-03-05T09:57:10-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/security/</loc>
+    <loc>https://www.lucasmuller.com.br/author/rodrigo-oliveira/</loc>
+    <lastmod>2019-03-05T09:57:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lucasmuller.com.br/tag/router/</loc>
+    <lastmod>2019-03-05T09:57:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lucasmuller.com.br/tag/security/</loc>
     <lastmod>2019-03-05T09:57:10-03:00</lastmod>
   </url>
   
@@ -298,7 +278,32 @@
   </url>
   
   <url>
+    <loc>https://www.lucasmuller.com.br/author/christoph-dietzel/</loc>
+    <lastmod>2018-12-05T10:06:53-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.lucasmuller.com.br/publication/2018-conext-marcos/</loc>
+    <lastmod>2018-12-05T10:06:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lucasmuller.com.br/author/marco-canini/</loc>
+    <lastmod>2018-12-05T10:06:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lucasmuller.com.br/author/marco-chiesa/</loc>
+    <lastmod>2018-12-05T10:06:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lucasmuller.com.br/author/pedro-marcos/</loc>
+    <lastmod>2018-12-05T10:06:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lucasmuller.com.br/author/pradeeban-kathiravelu/</loc>
     <lastmod>2018-12-05T10:06:53-03:00</lastmod>
   </url>
   
@@ -333,12 +338,12 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/geolocation/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/geolocation/</loc>
     <lastmod>2016-12-05T11:52:34-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/leandro-bertholdo/</loc>
+    <loc>https://www.lucasmuller.com.br/author/leandro-bertholdo/</loc>
     <lastmod>2016-12-05T11:52:34-03:00</lastmod>
   </url>
   
@@ -348,22 +353,22 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/capacity-awareness/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/capacity-awareness/</loc>
     <lastmod>2016-01-10T15:53:16-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/device-controller-connectivity/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/device-controller-connectivity/</loc>
     <lastmod>2016-01-10T15:53:16-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/enhanced-controller-placement-strategy/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/enhanced-controller-placement-strategy/</loc>
     <lastmod>2016-01-10T15:53:16-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/failover-mechanisms/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/failover-mechanisms/</loc>
     <lastmod>2016-01-10T15:53:16-03:00</lastmod>
   </url>
   
@@ -373,27 +378,22 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/path-diversity/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/path-diversity/</loc>
     <lastmod>2016-01-10T15:53:16-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/sdn/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/sdn-survivability/</loc>
     <lastmod>2016-01-10T15:53:16-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/sdn-survivability/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/software-defined-networking/</loc>
     <lastmod>2016-01-10T15:53:16-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/software-defined-networking/</loc>
-    <lastmod>2016-01-10T15:53:16-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.lucasmuller.com.br/tags/survivor/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/survivor/</loc>
     <lastmod>2016-01-10T15:53:16-03:00</lastmod>
   </url>
   
@@ -403,17 +403,17 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/luciano-gaspary/</loc>
+    <loc>https://www.lucasmuller.com.br/author/luciano-gaspary/</loc>
     <lastmod>2014-12-05T10:44:19-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/marcelo-luizelli/</loc>
+    <loc>https://www.lucasmuller.com.br/author/marcelo-luizelli/</loc>
     <lastmod>2014-12-05T10:44:19-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/mathematical-model/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/mathematical-model/</loc>
     <lastmod>2014-12-05T10:44:19-03:00</lastmod>
   </url>
   
@@ -423,12 +423,12 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/authentication/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/authentication/</loc>
     <lastmod>2014-12-01T16:07:30-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/cloud/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/cloud/</loc>
     <lastmod>2014-12-01T16:07:30-03:00</lastmod>
   </url>
   
@@ -438,22 +438,22 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/shared-resources/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/shared-resources/</loc>
     <lastmod>2014-12-01T16:07:30-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/virtual-networks/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/virtual-networks/</loc>
     <lastmod>2014-12-01T16:07:30-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/bittorrent/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/bittorrent/</loc>
     <lastmod>2013-11-01T16:11:55-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/copyrighted-content/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/copyrighted-content/</loc>
     <lastmod>2013-11-01T16:11:55-03:00</lastmod>
   </url>
   
@@ -463,22 +463,22 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/illegal-files/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/illegal-files/</loc>
     <lastmod>2013-11-01T16:11:55-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/network-monitoring/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/network-monitoring/</loc>
     <lastmod>2013-11-01T16:11:55-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/ad-hoc-connection-management-mechanism/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/ad-hoc-connection-management-mechanism/</loc>
     <lastmod>2012-10-05T11:06:40-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/arrival-pattern/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/arrival-pattern/</loc>
     <lastmod>2012-10-05T11:06:40-03:00</lastmod>
   </url>
   
@@ -488,47 +488,47 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/matheus-lehmann/</loc>
+    <loc>https://www.lucasmuller.com.br/author/matheus-lehmann/</loc>
     <lastmod>2012-10-05T11:06:40-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/optimistic-disconnection/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/optimistic-disconnection/</loc>
     <lastmod>2012-10-05T11:06:40-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/peer-reachability/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/peer-reachability/</loc>
     <lastmod>2012-10-05T11:06:40-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/protocol-characteristics/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/protocol-characteristics/</loc>
     <lastmod>2012-10-05T11:06:40-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/rodolfo-antunes/</loc>
+    <loc>https://www.lucasmuller.com.br/author/rodolfo-antunes/</loc>
     <lastmod>2012-10-05T11:06:40-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/topology-robustness/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/topology-robustness/</loc>
     <lastmod>2012-10-05T11:06:40-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/lucas-bondan/</loc>
+    <loc>https://www.lucasmuller.com.br/author/lucas-bondan/</loc>
     <lastmod>2012-06-05T11:16:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/maicon-kist/</loc>
+    <loc>https://www.lucasmuller.com.br/author/maicon-kist/</loc>
     <lastmod>2012-06-05T11:16:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/multicast/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/multicast/</loc>
     <lastmod>2012-06-05T11:16:35-03:00</lastmod>
   </url>
   
@@ -538,12 +538,17 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/tags/openflow/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/openflow/</loc>
     <lastmod>2012-06-05T11:16:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/bradley-huffaker-caida/ucsd/</loc>
+    <loc>https://www.lucasmuller.com.br/tag/sdn/</loc>
+    <lastmod>2012-06-05T11:16:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lucasmuller.com.br/author/bradley-huffaker-caida/ucsd/</loc>
   </url>
   
   <url>
@@ -551,47 +556,47 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/daniel-stefani-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/daniel-stefani-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/fabricio-mazzola-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/fabricio-mazzola-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/kc-claffy-caida/ucsd/</loc>
+    <loc>https://www.lucasmuller.com.br/author/kc-claffy-caida/ucsd/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/leonardo-bays-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/leonardo-bays-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/lucas-muller-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/lucas-muller-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/lucas-muller-ufrgs/caida/</loc>
+    <loc>https://www.lucasmuller.com.br/author/lucas-muller-ufrgs/caida/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/luciano-gaspary-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/luciano-gaspary-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/marinho-barcellos-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/marinho-barcellos-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/miguel-neves-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/miguel-neves-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/pedro-marcos-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/pedro-marcos-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/pedro-marcos-ufrgs/furg/</loc>
+    <loc>https://www.lucasmuller.com.br/author/pedro-marcos-ufrgs/furg/</loc>
   </url>
   
   <url>
@@ -599,19 +604,19 @@
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/renata-teixeira-inria/paris/</loc>
+    <loc>https://www.lucasmuller.com.br/author/renata-teixeira-inria/paris/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/rodrigo-mansilha-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/rodrigo-mansilha-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/rodrigo-oliveira-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/rodrigo-oliveira-inf/ufrgs/</loc>
   </url>
   
   <url>
-    <loc>https://www.lucasmuller.com.br/authors/tobias-petry-inf/ufrgs/</loc>
+    <loc>https://www.lucasmuller.com.br/author/tobias-petry-inf/ufrgs/</loc>
   </url>
   
 </urlset>

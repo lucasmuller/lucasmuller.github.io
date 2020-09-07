@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Marcos (INF/UFRGS) | Lucas Müller</title>
+    <link>https://www.lucasmuller.com.br/author/pedro-marcos-inf/ufrgs/</link>
+      <atom:link href="https://www.lucasmuller.com.br/author/pedro-marcos-inf/ufrgs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Marcos (INF/UFRGS)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright>
+    <image>
+      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
+      <title>Pedro Marcos (INF/UFRGS)</title>
+      <link>https://www.lucasmuller.com.br/author/pedro-marcos-inf/ufrgs/</link>
+    </image>
+    
+    <item>
+      <title>IPE-Analytics</title>
+      <link>https://www.lucasmuller.com.br/project/2017-2020-ipeanalytics/</link>
+      <pubDate>Sun, 05 Jan 2020 13:25:18 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/project/2017-2020-ipeanalytics/</guid>
+      <description>&lt;p&gt;The adoption of network monitoring techniques has culminated in a broad availability of raw data. However, giving the large-scale and complexity of long-distance networks and the massive volume of distributed data, minor progress has been achieved regarding the in-depth analysis of this collected data and inferences about the network behavior. This project investigates methods to analyze the data measured by the existing monitoring tools present in the Brazilian Academic IPÊ backbone network. The result is a service that provides inferences to aid the process of operation, traffic engineering and network planning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

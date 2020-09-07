@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ad hoc connection management mechanism | Lucas Müller</title>
+    <link>https://www.lucasmuller.com.br/tag/ad-hoc-connection-management-mechanism/</link>
+      <atom:link href="https://www.lucasmuller.com.br/tag/ad-hoc-connection-management-mechanism/index.xml" rel="self" type="application/rss+xml" />
+    <description>ad hoc connection management mechanism</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright><lastBuildDate>Fri, 05 Oct 2012 11:06:40 -0300</lastBuildDate>
+    <image>
+      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
+      <title>ad hoc connection management mechanism</title>
+      <link>https://www.lucasmuller.com.br/tag/ad-hoc-connection-management-mechanism/</link>
+    </image>
+    
+    <item>
+      <title>Disconnecting to Connect: understanding Optimistic Disconnection in BitTorrent</title>
+      <link>https://www.lucasmuller.com.br/publication/2012-p2p-lehmann/</link>
+      <pubDate>Fri, 05 Oct 2012 11:06:40 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/publication/2012-p2p-lehmann/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

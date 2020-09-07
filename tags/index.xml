@@ -5,9 +5,9 @@
     <link>https://www.lucasmuller.com.br/tags/</link>
       <atom:link href="https://www.lucasmuller.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 16:36:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright><lastBuildDate>Mon, 27 Jul 2020 16:36:00 -0300</lastBuildDate>
     <image>
-      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
+      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
       <title>Tags</title>
       <link>https://www.lucasmuller.com.br/tags/</link>
     </image>

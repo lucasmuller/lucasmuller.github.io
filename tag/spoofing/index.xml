@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spoofing | Lucas Müller</title>
+    <link>https://www.lucasmuller.com.br/tag/spoofing/</link>
+      <atom:link href="https://www.lucasmuller.com.br/tag/spoofing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spoofing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright><lastBuildDate>Mon, 27 Jul 2020 16:36:00 -0300</lastBuildDate>
+    <image>
+      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
+      <title>Spoofing</title>
+      <link>https://www.lucasmuller.com.br/tag/spoofing/</link>
+    </image>
+    
+    <item>
+      <title>Spoofed Traffic Inference at IXPs: Challenges, Methods and Analysis</title>
+      <link>https://www.lucasmuller.com.br/publication/2020-journal-ixps-spoofing-muller/</link>
+      <pubDate>Mon, 27 Jul 2020 16:36:00 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/publication/2020-journal-ixps-spoofing-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spoofer-IX</title>
+      <link>https://www.lucasmuller.com.br/project/2016-2020-spooferix/</link>
+      <pubDate>Thu, 05 Mar 2020 12:40:39 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/project/2016-2020-spooferix/</guid>
+      <description>&lt;p&gt;A new methodology to accurately classify spoofed traffic in the inter-domain level using heavily aggregated Internet traffic data, revealing the deep subtleties of scientific assessments of operational Internet infrastructure (2016-2020).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IPE-Analytics</title>
+      <link>https://www.lucasmuller.com.br/project/2017-2020-ipeanalytics/</link>
+      <pubDate>Sun, 05 Jan 2020 13:25:18 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/project/2017-2020-ipeanalytics/</guid>
+      <description>&lt;p&gt;The adoption of network monitoring techniques has culminated in a broad availability of raw data. However, giving the large-scale and complexity of long-distance networks and the massive volume of distributed data, minor progress has been achieved regarding the in-depth analysis of this collected data and inferences about the network behavior. This project investigates methods to analyze the data measured by the existing monitoring tools present in the Brazilian Academic IPÊ backbone network. The result is a service that provides inferences to aid the process of operation, traffic engineering and network planning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://www.lucasmuller.com.br/talk/2019-spooferix-conext19/</link>
+      <pubDate>Tue, 10 Dec 2019 15:31:23 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2019-spooferix-conext19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://www.lucasmuller.com.br/publication/acm-conext-2019-lfmuller/</link>
+      <pubDate>Wed, 04 Dec 2019 19:29:15 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/publication/acm-conext-2019-lfmuller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://www.lucasmuller.com.br/talk/2019-caida-dust/</link>
+      <pubDate>Tue, 10 Sep 2019 11:14:30 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2019-caida-dust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using IXPs to Measure Improvements of Source Address Validation Filtering in Inter-Domain Traffic</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-caida-aims/</link>
+      <pubDate>Thu, 15 Mar 2018 11:23:50 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-caida-aims/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

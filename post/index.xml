@@ -5,9 +5,9 @@
     <link>https://www.lucasmuller.com.br/post/</link>
       <atom:link href="https://www.lucasmuller.com.br/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright>
     <image>
-      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
+      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
       <title>Posts</title>
       <link>https://www.lucasmuller.com.br/post/</link>
     </image>

@@ -5,9 +5,9 @@
     <link>https://www.lucasmuller.com.br/</link>
       <atom:link href="https://www.lucasmuller.com.br/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Müller</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 16:36:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright><lastBuildDate>Mon, 27 Jul 2020 16:36:00 -0300</lastBuildDate>
     <image>
-      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
+      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
       <title>Lucas Müller</title>
       <link>https://www.lucasmuller.com.br/</link>
     </image>
@@ -36,6 +36,14 @@
       <guid>https://www.lucasmuller.com.br/project/2017-2020-ipeanalytics/</guid>
       <description>&lt;p&gt;The adoption of network monitoring techniques has culminated in a broad availability of raw data. However, giving the large-scale and complexity of long-distance networks and the massive volume of distributed data, minor progress has been achieved regarding the in-depth analysis of this collected data and inferences about the network behavior. This project investigates methods to analyze the data measured by the existing monitoring tools present in the Brazilian Academic IPÊ backbone network. The result is a service that provides inferences to aid the process of operation, traffic engineering and network planning.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://www.lucasmuller.com.br/talk/2019-spooferix-conext19/</link>
+      <pubDate>Tue, 10 Dec 2019 15:31:23 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2019-spooferix-conext19/</guid>
+      <description></description>
     </item>
     
     <item>

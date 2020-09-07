@@ -5,12 +5,20 @@
     <link>https://www.lucasmuller.com.br/talk/</link>
       <atom:link href="https://www.lucasmuller.com.br/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Keynotes &amp; Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 11:14:30 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright><lastBuildDate>Tue, 10 Dec 2019 15:31:23 -0300</lastBuildDate>
     <image>
-      <url>https://www.lucasmuller.com.br/img/logo-lm.png</url>
+      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
       <title>Keynotes &amp; Talks</title>
       <link>https://www.lucasmuller.com.br/talk/</link>
     </image>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://www.lucasmuller.com.br/talk/2019-spooferix-conext19/</link>
+      <pubDate>Tue, 10 Dec 2019 15:31:23 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2019-spooferix-conext19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Challenges in Inferring Spoofed Traffic at IXPs</title>

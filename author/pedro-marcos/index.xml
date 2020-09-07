@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Marcos | Lucas Müller</title>
+    <link>https://www.lucasmuller.com.br/author/pedro-marcos/</link>
+      <atom:link href="https://www.lucasmuller.com.br/author/pedro-marcos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Marcos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright><lastBuildDate>Wed, 05 Dec 2018 10:06:53 -0300</lastBuildDate>
+    <image>
+      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
+      <title>Pedro Marcos</title>
+      <link>https://www.lucasmuller.com.br/author/pedro-marcos/</link>
+    </image>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>https://www.lucasmuller.com.br/publication/2018-conext-marcos/</link>
+      <pubDate>Wed, 05 Dec 2018 10:06:53 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/publication/2018-conext-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Agreement Marketplace on Internet eXchange Points</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-dynamix-epf/</link>
+      <pubDate>Mon, 17 Sep 2018 11:30:03 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-dynamix-epf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>https://www.lucasmuller.com.br/publication/2018-sigcomm-marcos/</link>
+      <pubDate>Sun, 05 Aug 2018 10:20:14 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/publication/2018-sigcomm-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-dynamix-irtf/</link>
+      <pubDate>Mon, 16 Jul 2018 11:39:05 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-dynamix-irtf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: A Dynamic Interconnection eXchange</title>
+      <link>https://www.lucasmuller.com.br/talk/2018-dynamix-ripe76/</link>
+      <pubDate>Wed, 16 May 2018 11:43:25 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2018-dynamix-ripe76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing Coverage Analysis At IXPs in Brazil</title>
+      <link>https://www.lucasmuller.com.br/talk/2016-keynote-ixbr/</link>
+      <pubDate>Mon, 05 Dec 2016 11:52:34 -0300</pubDate>
+      <guid>https://www.lucasmuller.com.br/talk/2016-keynote-ixbr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
