@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Marco Chiesa (KTH) | Lucas Müller</title>
-    <link>https://www.lucasmuller.com.br/author/marco-chiesa-kth/</link>
-      <atom:link href="https://www.lucasmuller.com.br/author/marco-chiesa-kth/index.xml" rel="self" type="application/rss+xml" />
-    <description>Marco Chiesa (KTH)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright><lastBuildDate>Tue, 05 Mar 2019 13:07:35 -0300</lastBuildDate>
-    <image>
-      <url>https://www.lucasmuller.com.br/media/logo-lm.png</url>
-      <title>Marco Chiesa (KTH)</title>
-      <link>https://www.lucasmuller.com.br/author/marco-chiesa-kth/</link>
-    </image>
-    
-    <item>
-      <title>Dynam-IX</title>
-      <link>https://www.lucasmuller.com.br/project/2016-2019-dynamix/</link>
-      <pubDate>Tue, 05 Mar 2019 13:07:35 -0300</pubDate>
-      <guid>https://www.lucasmuller.com.br/project/2016-2019-dynamix/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Autonomous Systems (ASes) can now reach hundreds of networks directly through Internet eXchange Points (IXPs). Despite the benefits, any pair of ASes needs first to agree on exchanging traffic. Such process is mainly manual and lengthy. Because of the hassle, ASes miss interconnection opportunities and prefer long-term agreements, even if not matching current Internet traffic dynamics.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Approach&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;To improve wide-area traffic delivery performance Dynam-IX enables IXP members with a protocol to find interconnection opportunities and establish interconnection agreements, a high-level interconnection intent abstraction to express peering policies, a legal framework to digitally handle contracts, and a distributed tamper-proof ledger to allow ASes to cooperatively build trust.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marco Chiesa (KTH) | Lucas Müller</title><link>https://www.lucasmuller.com.br/author/marco-chiesa-kth/</link><atom:link href="https://www.lucasmuller.com.br/author/marco-chiesa-kth/index.xml" rel="self" type="application/rss+xml"/><description>Marco Chiesa (KTH)</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lucas Müller 2020</copyright><lastBuildDate>Tue, 05 Mar 2019 13:07:35 -0300</lastBuildDate><image><url>https://www.lucasmuller.com.br/media/logo-lm.png</url><title>Marco Chiesa (KTH)</title><link>https://www.lucasmuller.com.br/author/marco-chiesa-kth/</link></image><item><title>Dynam-IX</title><link>https://www.lucasmuller.com.br/project/2016-2019-dynamix/</link><pubDate>Tue, 05 Mar 2019 13:07:35 -0300</pubDate><guid>https://www.lucasmuller.com.br/project/2016-2019-dynamix/</guid><description>&lt;p>&lt;strong>Problem&lt;/strong>&lt;/p>
+&lt;p>Autonomous Systems (ASes) can now reach hundreds of networks directly through Internet eXchange Points (IXPs). Despite the benefits, any pair of ASes needs first to agree on exchanging traffic. Such process is mainly manual and lengthy. Because of the hassle, ASes miss interconnection opportunities and prefer long-term agreements, even if not matching current Internet traffic dynamics.&lt;/p>
+&lt;p>&lt;strong>Approach&lt;/strong>&lt;/p>
+&lt;p>To improve wide-area traffic delivery performance Dynam-IX enables IXP members with a protocol to find interconnection opportunities and establish interconnection agreements, a high-level interconnection intent abstraction to express peering policies, a legal framework to digitally handle contracts, and a distributed tamper-proof ledger to allow ASes to cooperatively build trust.&lt;/p></description></item></channel></rss>
